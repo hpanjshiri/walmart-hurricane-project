@@ -7,10 +7,10 @@
 - Dina Belete (GitHub: amranbelete)
 
 ## Goals
-- **good result:** A notebook we are proud of and can explain completed early
+- **good result:** A notebook we are proud of and can explain completed early.
 - **what each person wants:** Henna: I want a strong presentation and to get through this with as clean of data as possible.
-- **time limits:** Jobs, weekend travel plans
-- **what to avoid:** Last minute work when not everyone is able to help because of limits (jobs, travel)
+- **time limits:** Jobs, weekend travel plans.
+- **what to avoid:** Last minute work when not everyone is able to help because of limits (jobs, travel).
 
 ## Roles
 
